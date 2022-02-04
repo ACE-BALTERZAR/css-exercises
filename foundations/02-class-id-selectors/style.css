@@ -3,3 +3,14 @@
     background-color: rgba(207, 31, 60, 0.932);
     font-family: Verdana, "Dejavu Sans", sans-serif
 }
+
+#scnd-element
+{
+   color: rgba(0, 0, 255, 0.411);
+   font-size: 36px; 
+}
+
+.odd-numbers.thrd-element
+{
+    font-size: 24px;
+}
